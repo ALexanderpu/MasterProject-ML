@@ -1,1 +1,1 @@
-# MasterProject-ML
+CCM results detection using RNN and CNN
